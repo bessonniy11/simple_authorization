@@ -1,0 +1,7 @@
+{
+  "name": "simple_auth",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
